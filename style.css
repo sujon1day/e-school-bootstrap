@@ -1,0 +1,31 @@
+.header {
+  background-color: #f0fff0;
+}
+.logo-image {
+  width: 160px;
+}
+.signin-button {
+    width: fit-content;
+  background-color: #21b573;
+  padding: 12px 28px;
+  border-radius: 33px;
+  text-decoration: none;
+  color: #fff;
+}
+.signin-button:hover {
+  color: #fff;
+}
+.heading-color{
+    color: #21b573;
+}
+.main-heading{
+  font-weight: bold;
+}
+.details{
+  background-color: #F8FFFB;
+  
+}.details:hover{
+  background-color: #fff;
+  box-shadow: 3px 2px 15px 0 gray;
+  
+}
